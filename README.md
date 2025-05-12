@@ -22,7 +22,7 @@ Este projeto tem como objetivo:
 
 ## Como Executar os Exercícios
 
-1. Escolha a linguagem desejada (C++, Python ou JavaScript).
+1. Escolha a linguagem desejada (C++, Python, JavaScript ou C#).
 2. Selecione o nível de dificuldade: Iniciante, Intermediário ou Avançado.
 3. Abra o código da solução e execute-o em seu ambiente de desenvolvimento local ou em um editor online adequado.
 
