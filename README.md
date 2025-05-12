@@ -8,22 +8,16 @@ Este repositório contém soluções para os exercícios da plataforma **BeeCrow
 - **C++**
 - **Python**
 - **JavaScript**
+- **C#**
 
-## Como Contribuir
 
-Se você quiser contribuir com novas soluções ou melhorar as existentes, siga as etapas abaixo:
-
-1. Faça um **fork** deste repositório.
-2. Crie uma **branch** para sua nova contribuição (`git checkout -b nova-solucao`).
-3. Faça as alterações necessárias.
-4. Envie um **pull request** detalhando as modificações.
 
 ## Objetivo do Projeto
 
 Este projeto tem como objetivo:
 
 - **Praticar e melhorar habilidades de programação** com a resolução de exercícios desafiadores.
-- **Explorar diferentes linguagens de programação** (C++, Python e JavaScript) e aprender como resolver problemas de forma eficiente em cada uma.
+- **Explorar diferentes linguagens de programação** (C++, Python, JavaScript e C#) e aprender como resolver problemas de forma eficiente em cada uma.
 - **Organizar e documentar soluções**, para que outros possam aprender com elas e melhorar suas habilidades em programação.
 
 ## Como Executar os Exercícios
