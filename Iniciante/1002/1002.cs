@@ -18,8 +18,8 @@ class Program
 {
     static void Main()
     {
-        var problema = new URI();
-        problema.LerValores();
-        problema.Soma();
+        var problem = new URI();
+        problem.LerValores();
+        problem.Soma();
     }
 }

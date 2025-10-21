@@ -23,8 +23,8 @@ class Program
 {
     static void Main()
     {
-        var problema = new URI();
-        problema.LerValores();
-        problema.Media();
+        var problem = new URI();
+        problem.LerValores();
+        problem.Media();
     }
 }
